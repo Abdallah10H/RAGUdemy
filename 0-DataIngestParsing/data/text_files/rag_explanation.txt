@@ -1,0 +1,3 @@
+Retrieval-Augmented Generation (RAG) is a technique used to give Large Language Models (LLMs) access to specific, private data. 
+    It works by retrieving relevant documents from a vector database and "stuffing" them into the prompt as context. 
+    This reduces hallucinations because the model bases its answer on the provided facts rather than its training data alone.

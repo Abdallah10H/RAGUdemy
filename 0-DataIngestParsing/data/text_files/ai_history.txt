@@ -1,0 +1,3 @@
+The field of Artificial Intelligence began in the mid-20th century. Alan Turing's 1950 paper "Computing Machinery and Intelligence" 
+    proposed the Turing Test as a measure of machine intelligence. Since then, the field has evolved from simple rule-based systems 
+    to the complex neural networks and transformers that power modern generative AI today.
