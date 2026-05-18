@@ -13,7 +13,7 @@ langchain_text_splitters
 langchain_core
 python-docx
 pdfminer
-unstructured
+unstructured[xlsx]
 docx2txt
-pandas
+pandas>=3.0.2
 openpyxl
