@@ -5,7 +5,6 @@ tiktoken
 langchain-community
 langchain-openai
 chromadb
-sentence-transformers
 pypdf
 python-dotenv
 pymupdf
@@ -20,3 +19,7 @@ openpyxl
 jq
 ipywidgets
 matplotlib
+
+#Embeddings
+langchain-huggingface
+sentence-transformers
