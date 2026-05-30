@@ -19,6 +19,7 @@ openpyxl
 jq
 ipywidgets
 matplotlib
+langchain-chroma
 
 #Embeddings
 langchain-huggingface
